@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "918004869613",
+    "project_id": "sigmahelpdesk-32f5a",
+    "storage_bucket": "sigmahelpdesk-32f5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918004869613:android:a009343651c7e58a38dfe4",
+        "android_client_info": {
+          "package_name": "com.arkayapps.sigmahelpdesk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918004869613-pkopivkc7crioahiv7tigt2getlvg028.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arkayapps.sigmahelpdesk",
+            "certificate_hash": "0c15711775f8a344976cd44a70dacff878bf63ea"
+          }
+        },
+        {
+          "client_id": "918004869613-lu7r5rkdup20otnlgafeo2aliqu0rfnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWUAtoMkcct9ex2_2Dgu6Er-mUeZ2zfC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918004869613-lu7r5rkdup20otnlgafeo2aliqu0rfnt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
